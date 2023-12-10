@@ -57,7 +57,7 @@ En plus du tableau de bord, j'ai élaboré une histoire sur Tableau qui guide l'
 
 Enregistrement en ligne
 
-L'ensemble du tableau de bord interactif et de l'histoire associée a été sauvegardé en ligne pour une accessibilité facile. Vous pouvez explorer l'ensemble du travail sur le lien suivant de mon tableau public : HTTPS://PUBLIC.TABLEAU.COM/APP/PROFILE/AICHA.ELFELCHAOUI/VIZ/DASHBORD_FOOTCLEANNINGDATA/HISTOIRENARRATION
+L'ensemble du tableau de bord interactif et de l'histoire associée a été sauvegardé en ligne pour une accessibilité facile. Vous pouvez explorer l'ensemble du travail sur le lien suivant de mon tableau public : [HTTPS://PUBLIC.TABLEAU.COM/APP/PROFILE/AICHA.ELFELCHAOUI/VIZ/DASHBORD_FOOTCLEANNINGDATA/HISTOIRENARRATION](https://public.tableau.com/views/dashbord_footcleanningdata/HistoireNarration?:language=en-US&:display_count=n&:origin=viz_share_link)
 Cette approche interactive et visuelle dans Tableau renforce l'impact de l'analyse exploratoire des données, offrant une plateforme conviviale pour l'exploration approfondie des performances des joueurs de football.
 
 VI. Conclusion
